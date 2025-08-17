@@ -22,7 +22,7 @@ An **interactive learning platform** for A-Level and IB students, guiding them t
 - Backend & Database: [Supabase](https://supabase.com/)  
 - Authentication: Supabase Auth  
 - UI/UX: Responsive React-based design  
-- Deployment: *(Add your deployment platform, e.g., Vercel)*  
+- Deployment: *Vercel*  
 
 ---
 
